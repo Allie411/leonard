@@ -1,0 +1,21 @@
+.style_power_text {
+    color: #4F3307;
+    font-size: 45px;
+    font-family: Algerian;
+    }
+.style_story_text {
+    margin: 0px 10px;
+    text-indent: 25px;
+    color: #121212;
+    font-family: Gabriola;
+    font-size: 22px;
+    line-height: 1;
+    font-weight: bold;
+    font-style: normal;
+    }
+.linker {
+    font-family: Bahnschrift Condensed;
+    font-size: 30px;
+    color: #8C3131;
+    text-decoration: none;
+    }
